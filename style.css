@@ -33,9 +33,6 @@ body {
     font-size: 2.5rem;
     font-weight: 700;
     margin-bottom: 10px;
-  line-height: 1.4; /* 1.3〜1.4くらい */
-  max-width: 1000px; /* ←これ追加（700〜850くらいで調整可） */
-  margin: 0 auto;
 }
 
 
