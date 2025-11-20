@@ -77,7 +77,8 @@ body {
 /* ====== スマホ表示 ====== */
 @media (max-width: 600px) {
     .hero-title {
-        font-size: 1.9rem;
+        white-space: normal;
+        font-size: 2.0rem;
     }
 
     .hero-sub {
