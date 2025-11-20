@@ -678,22 +678,6 @@ body {
   color: #9ca3b9;
 }
 
-/* =========================
-   スマホ用 固定フッター
-========================= */
-.fixed-footer {
-  position: fixed;
-  left: 0;
-  bottom: 0;
-  width: 100%;
-  display: none;              /* PCでは非表示 */
-  gap: 8px;
-  padding: 10px 12px;
-  background: rgba(15, 23, 42, 0.96);
-  box-shadow: 0 -6px 20px rgba(0, 0, 0, 0.35);
-  z-index: 999;
-}
-
 .fixed-footer-btn {
   flex: 1;
   display: inline-flex;
